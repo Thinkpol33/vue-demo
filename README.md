@@ -10,3 +10,4 @@ npm install
 npm run serve
 ```
 
+### 有可能第一次编译不通过，请编译两次
